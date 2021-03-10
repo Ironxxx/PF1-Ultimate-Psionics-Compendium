@@ -1,6 +1,7 @@
 # PF1-Ultimate-Psionics-Compendium
 This module aims to incorporate Dreamscarred Press' excellent Ultimate Psionics content into the PF1 system for Foundry VTT.
 It now includes all classes, class abilities, powers, feats and races plus the two extra skills (as Journal items) and some sample buffs.
+All items will appear in the Compendium.
 
 NOTE: Powers are set up to use the Spell Point system, as such they will deduct the standard cost for the unaugmented power on use, augment cost must be applied manually.
 Classes do not calculate PSI point pools, this needs to be added manually.
