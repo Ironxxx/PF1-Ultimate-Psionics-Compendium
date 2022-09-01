@@ -42,6 +42,7 @@
 	{
       "name": "psionic-items",
       "label": "Psionic Items sample",
+	"system": "pf1",
       "path": "packs/psionic-items.db",
       "entity": "Item",
       "module": "pf1ultimatepsionics"
