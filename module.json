@@ -3,7 +3,7 @@
    "title": "PF1 Ultimate Psionics Compendium",   
    "description": "Sharing DSP's Ultimate Psionics for the Foundry PF1 system",   
    "author": "Iron(Iron#6067)",
-   "version": "1.1.3",
+   "version": "1.1.4",
    "minimumCoreVersion": "0.6.0",
    "systems": ["pf1"],
       "packs": [
@@ -76,5 +76,5 @@
   "url": "https://github.com/Ironxxx/pf1ultimatepsionics",
 
   "manifest": "https://raw.githubusercontent.com/Ironxxx/pf1ultimatepsionics/main/module.json",
-  "download": "https://github.com/Ironxxx/pf1ultimatepsionics/archive/1.1.3.zip"
+  "download": "https://github.com/Ironxxx/pf1ultimatepsionics/archive/1.1.4.zip"
  }
