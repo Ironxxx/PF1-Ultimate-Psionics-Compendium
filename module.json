@@ -1,80 +1,93 @@
-{   
-   "name": "pf1ultimatepsionics",   
-   "title": "PF1 Ultimate Psionics Compendium",   
-   "description": "Sharing DSP's Ultimate Psionics for the Foundry PF1 system",   
-   "author": "Iron(Iron#6067)",
-   "version": "1.1.4",
-   "minimumCoreVersion": "0.6.0",
-   "systems": ["pf1"],
-      "packs": [
+{
+  "id": "pf1ultimatepsionics",
+  "title": "PF1 Ultimate Psionics Compendium v11",
+  "description": "Sharing DSP's Ultimate Psionics for the Foundry PF1 system, updated for v11",
+  "version": "1.1.5",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11.315"
+  },
+  "authors": [
+    {
+      "name": "Iron",
+      "discord": "Iron#6067"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1"
+      }
+    ]
+  },
+  "packs": [
     {
       "name": "psionic-buffs",
       "label": "Psionic Buffs sample",
-	  "system": "pf1",
+      "system": "pf1",
       "path": "packs/psionic-buffs.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1ultimatepsionics"
     },
     {
       "name": "psionic-class-abilities",
       "label": "Psionic Class Abilities",
-	  "system": "pf1",
+      "system": "pf1",
       "path": "packs/psionic-class-abilities.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1ultimatepsionics"
     },
     {
       "name": "psionic-classes",
       "label": "Psionic Classes",
-	  "system": "pf1",
+      "system": "pf1",
       "path": "packs/psionic-classes.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1ultimatepsionics"
     },
-	{
+    {
       "name": "psionic-feats",
       "label": "Psionic Feats",
-	  "system": "pf1",
+      "system": "pf1",
       "path": "packs/psionic-feats.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1ultimatepsionics"
     },
-	{
+    {
       "name": "psionic-items",
       "label": "Psionic Items sample",
-	    "system": "pf1",
+      "system": "pf1",
       "path": "packs/psionic-items.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1ultimatepsionics"
     },
-	{
+    {
       "name": "psionic-races",
       "label": "Psionic Races",
-	  "system": "pf1",
+      "system": "pf1",
       "path": "packs/psionic-races.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1ultimatepsionics"
     },
-	{
+    {
       "name": "psionic-skills",
       "label": "Psionic Skills",
-	  "system": "pf1",
+      "system": "pf1",
       "path": "packs/psionic-skills.db",
-      "entity": "JournalEntry",
+      "type": "JournalEntry",
       "module": "pf1ultimatepsionics"
     },
-	{
+    {
       "name": "psionic-powers",
       "label": "Psionic Powers",
-	  "system": "pf1",
+      "system": "pf1",
       "path": "packs/psionic-powers.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1ultimatepsionics"
     }
-  ], 
+  ],
   "bugs": "https://github.com/Ironxxx/pf1ultimatepsionics/issues",
   "url": "https://github.com/Ironxxx/pf1ultimatepsionics",
-
   "manifest": "https://raw.githubusercontent.com/Ironxxx/pf1ultimatepsionics/main/module.json",
-  "download": "https://github.com/Ironxxx/pf1ultimatepsionics/archive/1.1.4.zip"
- }
+  "download": "https://github.com/Ironxxx/pf1ultimatepsionics/archive/1.1.5.zip"
+}
